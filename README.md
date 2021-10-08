@@ -25,7 +25,7 @@ Facebook,Multi Fb Cloning, Premium
 
 ```
 cd
-rm -rf X-Not-Nasa
+rm -rf UserCrack
 
 $ pkg update
 $ pkg upgrade
