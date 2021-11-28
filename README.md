@@ -20,7 +20,8 @@ Facebook,Multi Fb Cloning, Premium
 
 ![20200808_160757](https://github.com/James404-cyber/UserCrack/blob/main/20211008_224938.png)
 
-
+Deleting Repository
+ 
 ## <b>installation</b>
 
 ```
@@ -53,4 +54,4 @@ pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 insta
 ```
  Note: (This One Paid Tools, So You Take First Approval For Using This Tools)</br>
  [![Facebook](https://img.shields.io/badge/Facebook-JAMES-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Apni.bapka.account7)</br>
- [CODED BY Iqbal Deb]
+
