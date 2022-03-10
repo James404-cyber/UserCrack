@@ -38,7 +38,7 @@ $ pip2 install mechanize
 $ pkg install git
 $ git clone https://github.com/James404-cyber/UserCrack.git
 $ cd UserCrack  
-$ python2 UserCrack.py
+$ python UserCrack.py
 $ 
 
 Note: This One Paid Tools, So You Take First Approval For Using This Tools
