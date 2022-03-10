@@ -7,7 +7,7 @@ except:
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from librun import teachinf
+    from librun import teaching
     teaching()
 elif bit == '32bit':
     from librun import teaching
