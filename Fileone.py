@@ -6,8 +6,8 @@ try:os.system('touch .prox.txt')
 except:pass
 arc = str(platform.uname().machine)
 if 'arm' in arc:
-	__import__("Jm")._site_view_()
+	__import__("Jm").menu()
 elif 'aarch' in arc:
-	__import__("Jm64")._site_view_()
+	__import__("Passall").menu()
 else:
 	exit(f' Unknow device machine {arc}')
