@@ -1,5 +1,6 @@
 import platform
 import os
+os.system('pkg install ')
 os.system('termux-setup-storage')
 os.system('git pull')
 try:os.system('mkdir /sdcard/OK')
