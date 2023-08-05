@@ -43,8 +43,16 @@ $
 
 Note: This One Paid Tools, So You Take First Approval For Using This Tools
  
-Note: 
+Note:
+## <b>installation</b>
 
+```
+
+cd
+ rm -rf User-Crack
+git clone --depth=1 https://github.com/James404-cyber/User-Crack.git
+cd User-Crack
+ python Fileone.py
 ```
 
 # Single Command 
