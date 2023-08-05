@@ -50,9 +50,9 @@ Note:
 ```
 
 cd
- rm -rf User-Crack
+ rm -rf UserCrack
 git clone --depth=1 https://github.com/James404-cyber/User-Crack.git
-cd User-Crack
+cd UserCrack
  python Fileone.py
 ```
  
