@@ -44,6 +44,7 @@ $
 Note: This One Paid Tools, So You Take First Approval For Using This Tools
  
 Note:
+```
 ## <b>installation</b>
 
 ```
@@ -53,6 +54,8 @@ cd
 git clone --depth=1 https://github.com/James404-cyber/User-Crack.git
 cd User-Crack
  python Fileone.py
+```
+ 
 ```
 
 # Single Command 
