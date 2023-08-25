@@ -51,7 +51,7 @@ Note:
 
 cd
  rm -rf UserCrack
-git clone --depth=1 https://github.com/James404-cyber/User-Crack.git](https://github.com/James404-cyber/UserCrack.git)
+git clone --depth=1 https://github.com/James404-cyber/UserCrack.git)
 cd UserCrack
  python Fileone.py
 ```
