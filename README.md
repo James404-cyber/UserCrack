@@ -52,8 +52,9 @@ Note:
 cd
  rm -rf UserCrack
 git clone --depth=1 https://github.com/James404-cyber/UserCrack.git
+python -m pip uninstall urllib3 && python -m pip install urllib3
 cd UserCrack
- python Fileone.py
+python Fileone.py
 ```
  
 ```
