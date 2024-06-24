@@ -28,17 +28,17 @@ Deleting Repository
 cd
 rm -rf UserCrack
 
-$ pkg update
-$ pkg upgrade
-$ pkg install python
-$ pkg install python2
-$ pip2 install requests
-$ pip2 install mechanize
+ pkg update
+ pkg upgrade
+ pkg install python
+ pkg install python2
+ pip2 install requests
+ pip2 install mechanize
 
-$ pkg install git
-$ git clone https://github.com/James404-cyber/UserCrack.git
-$ cd UserCrack  
-$ python Fileone.py
+ pkg install git
+ git clone https://github.com/James404-cyber/UserCrack.git
+ cd UserCrack  
+ python Fileone.py
 $ 
 
 Note: This One Paid Tools, So You Take First Approval For Using This Tools
